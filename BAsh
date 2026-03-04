@@ -1,0 +1,82 @@
+[master (root-commit) b2e9880] se añadio el cuarto cambio
+ 3 files changed, 7 insertions(+)
+ create mode 100644 BAsh
+ create mode 100644 Historia IE.txt
+ create mode 100644 vacio2.txt
+On branch master
+nothing to commit, working tree clean
+commit b2e9880ebb3b0de4a8bbe72fbb960f3e3fbd2503
+Author: Ingrid Espinel <ingridespinelp@gmail.com>
+Date:   Wed Mar 4 18:40:17 2026 +0100
+
+    se añadio el cuarto cambio
+
+diff --git a/BAsh b/BAsh
+new file mode 100644
+index 0000000..e69de29
+diff --git a/Historia IE.txt b/Historia IE.txt
+new file mode 100644
+index 0000000..a273d7d
+--- /dev/null
++++ b/Historia IE.txt	
+@@ -0,0 +1,7 @@
++Esta es la historia de IE
++
++tengo 38 años y vivo en España.
++Este es el principio de la segunda parte de mi historia
++
++la tercera es la vencida. pues ha quedado guardado entre comillas
++no lo fue. vamos a por la cuarta
+\ No newline at end of file
+diff --git a/vacio2.txt b/vacio2.txt
+new file mode 100644
+index 0000000..e69de29
+commit b2e9880ebb3b0de4a8bbe72fbb960f3e3fbd2503
+Author: Ingrid Espinel <ingridespinelp@gmail.com>
+Date:   Wed Mar 4 18:40:17 2026 +0100
+
+    se añadio el cuarto cambio
+commit b2e9880ebb3b0de4a8bbe72fbb960f3e3fbd2503
+Author: Ingrid Espinel <ingridespinelp@gmail.com>
+Date:   Wed Mar 4 18:40:17 2026 +0100
+
+    se añadio el cuarto cambio
+
+diff --git a/BAsh b/BAsh
+new file mode 100644
+index 0000000..e69de29
+diff --git a/Historia IE.txt b/Historia IE.txt
+new file mode 100644
+index 0000000..a273d7d
+--- /dev/null
++++ b/Historia IE.txt	
+@@ -0,0 +1,7 @@
++Esta es la historia de IE
++
++tengo 38 años y vivo en España.
++Este es el principio de la segunda parte de mi historia
++
++la tercera es la vencida. pues ha quedado guardado entre comillas
++no lo fue. vamos a por la cuarta
+\ No newline at end of file
+diff --git a/vacio2.txt b/vacio2.txt
+new file mode 100644
+index 0000000..e69de29
+commit b2e9880ebb3b0de4a8bbe72fbb960f3e3fbd2503
+Author: Ingrid Espinel <ingridespinelp@gmail.com>
+Date:   Wed Mar 4 18:40:17 2026 +0100
+
+    se añadio el cuarto cambio
+[master d2a02ca] se añadio el cuarto cambio
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+commit d2a02caa87b81a46a59025af3ce62ae78ab7f225
+Author: Ingrid Espinel <ingridespinelp@gmail.com>
+Date:   Wed Mar 4 18:43:32 2026 +0100
+
+    se añadio el cuarto cambio
+
+commit b2e9880ebb3b0de4a8bbe72fbb960f3e3fbd2503
+Author: Ingrid Espinel <ingridespinelp@gmail.com>
+Date:   Wed Mar 4 18:40:17 2026 +0100
+
+    se añadio el cuarto cambio
